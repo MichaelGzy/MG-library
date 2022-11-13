@@ -1,0 +1,17 @@
+{
+    "name": "michaelgzy/mg-library",
+    "description": "library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Michaelgzy\\MgLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "michaelgzy",
+            "email": "429534533@qq.com"
+        }
+    ],
+    "require": {}
+}
